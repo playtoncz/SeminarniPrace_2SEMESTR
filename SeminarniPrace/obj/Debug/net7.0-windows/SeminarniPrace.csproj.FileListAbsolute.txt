@@ -1,0 +1,17 @@
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.csproj.AssemblyReference.cache
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.Form1.resources
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.csproj.GenerateResource.cache
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.AssemblyInfoInputs.cache
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.AssemblyInfo.cs
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.csproj.CoreCompileInputs.cache
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\bin\Debug\net7.0-windows\SeminarniPrace.exe
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\bin\Debug\net7.0-windows\SeminarniPrace.deps.json
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\bin\Debug\net7.0-windows\SeminarniPrace.runtimeconfig.json
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\bin\Debug\net7.0-windows\SeminarniPrace.dll
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\bin\Debug\net7.0-windows\SeminarniPrace.pdb
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.dll
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\refint\SeminarniPrace.dll
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.pdb
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\SeminarniPrace.genruntimeconfig.cache
+C:\Users\apavlik\source\repos\SeminarniPrace\SeminarniPrace\obj\Debug\net7.0-windows\ref\SeminarniPrace.dll
